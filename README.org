@@ -1,5 +1,10 @@
 seccomp-nurse
 
+* Compatibility
+
+- Works only with 32bits Linux based system. Author used Debian Lenny.
+- You must install libevent-dev
+
 * About
 
   =seccomp-nurse= is a sandboxing framework based on =SECCOMP=.
